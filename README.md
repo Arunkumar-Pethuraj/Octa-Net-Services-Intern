@@ -1,5 +1,7 @@
 # Octa Net Services Intern - 2024
 
+## (Tasks Completed)
+
 ## Task 1 - Landing Page :
 
 ![Screenshot (494)](https://github.com/Arunkumar-Pethuraj/Octa-Net-Services-Intern/assets/153414462/16beaeef-fcad-4ad2-a84a-b1ae05dd24b5)
